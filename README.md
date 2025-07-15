@@ -1,6 +1,9 @@
 # Talabia-Chess
 Assignment for TCP2201 Obeject-Oriented Analysis and Design 
 A chess game with similar rule to international chess without special rules such as *en passent*, *castling* etc. <br> The board is 6 rows and 7 columns which is much smaller than standard chessboard, the colors of the pieces are blue and yellow.<br>
+
+![image](talabiaChess.png)
+
 ### Rules for playing Talabia Chess:
 1. Yellow side start first.
 2. Movement for each chess pieces:
